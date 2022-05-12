@@ -1,0 +1,49 @@
+/* header */
+header {
+	background: #ffffff;
+}
+span {
+	color: #2196f3;
+	font-family: "Raleway", sans-serif;
+}
+.logo {
+	color: #000000;
+	font-family: "Raleway", sans-serif;
+}
+ul {
+	list-style: none;
+}
+.site-nav a {
+	color: #212121;
+    font-family: 'Roboto', sans-serif;
+}
+.site-nav a:hover,
+.site-nav a:focus {
+	color: #2196f3;
+}
+.contacts a {
+	color: #757575;
+}
+.contacts a:hover,
+.contacts a:focus {
+	color: #2196f3;
+}
+/* hero */
+.hero {
+	background: #2f303a;
+}
+.hero-title {
+	color: #ffffff;
+}
+.hero-button {
+	color: #ffffff;
+	background: #2196f3;
+}
+/* body */
+body {
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+}
+.section-title {
+    color: #212121;
+}
