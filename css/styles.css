@@ -52,7 +52,6 @@ ul {
 .contacts a {
 	color: var(--text-color);
 	text-decoration: none;
-	font-style: normal;
 	font-weight: 500;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
@@ -81,8 +80,6 @@ ul {
 	font-weight: 700;
 	font-size: 16px;
 	line-height: 1.8;
-	display: flex;
-	align-items: center;
 	letter-spacing: 0.06em;
 	cursor: pointer;
 }
@@ -154,9 +151,10 @@ ul {
 }
 .text-footer {
 	color: var(--text-white-color);
-	font-style: normal;
-	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
 	letter-spacing: 0.03em;
+}
+address {
+	font-style: normal;
 }
